@@ -2,7 +2,7 @@
 
 ## Публікація на GitHub Pages
 1. Створи новий репозиторій (наприклад, `fifa-agent`) і завантаж у корінь усі файли з цього архіву:
-   `index.html`, `manifest.webmanifest`, `sw.js`, папку `icons/`.
+   `index.html`, `manifest.webmanifest`, `sw.js`, `icon-192.png`, `icon-512.png`, `apple-touch-icon.png` (усі файли лежать в корені, без папок).
 2. Settings → Pages → Source: **Deploy from a branch**, Branch: `main`, папка `/ (root)` → Save.
 3. Через 1–2 хвилини сайт буде доступний за адресою `https://<логін>.github.io/fifa-agent/`.
 
